@@ -1,0 +1,33 @@
+header {
+	background-color:  #3333ff;
+	padding: 50px;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	text-shadow: 3px 3px 1px black;
+}
+
+nav {
+	
+	padding:10px;
+	background-color: #9999FF;
+	font-size: 20px;
+}
+a {
+  padding-right: 50px;
+  font-size: 30px;
+  text-shadow: 1px 1px 1px black;
+  color: white;
+  text-decoration: none
+}
+
+
+article {
+  
+  background-color: #CCCCFF;
+  height: 500px;
+  
+}
+
+
+
